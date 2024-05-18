@@ -45,4 +45,9 @@
     .ert{
         position: relative;
         top: 80px;
+        @media (max-width:768px) {
+            top: 0px;
+        }
     }
+
+
