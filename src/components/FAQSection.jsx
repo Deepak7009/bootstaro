@@ -33,7 +33,7 @@ const FAQSection = () => {
   };
 
   return (
-    <div className="w-full mb-4" style={{ background: "bg-black" }}>
+    <div className="w-full mb-4 overflow-hidden" style={{ background: "bg-black" }}>
       
       <div className="my-8 pb-10" style={{background:"#753363"}}>
         <h2 className="text-center text-5xl font-bold mb-4 text-white">Frequently Asked Questions</h2>
