@@ -161,15 +161,15 @@ const FAQSection = () => {
           <div className="border rounded-xl shadow-lg w-80 mb-6 ml-3 gry ert">
             <h3 className="text-center text-xl font-bold rounded-t-md bg-slate-400  text-white h-10">BASIC</h3>
             <div className="text-center text-lg mb-4">
-              <div className='text-4xl font-black uppercase' style={{color:"#753363"}}>1 bottle</div><div className="text-center text-gray-500 mb-2"><b>30 Day Supply</b></div>
+              <div className='text-4xl font-black uppercase mt-4' style={{color:"#753363"}}>1 bottle</div><div className="text-center text-black mb-2"><b>30 Day Supply</b></div>
               <img src={bottle1} alt="" style={{ height: "290px" }} />
             </div>
             <div className="text-center text-2xl font-bold mb-2">
               <div className='text-6xl text-purple-500 ' style={{color:"#753363"}}><sup className='text-2xl'>$</sup>59 <span className='text-xl'>/ bottle</span></div>
             </div>
-            <div className="text-center text-gray-500 mb-4" style={{color:"#753363"}}>+ $9.99 Shipping</div><br /><br /><br />
+            <div className="text-center text-gray-500 mb-4" style={{color:"#753363"}}>+ $9.99 Shipping</div><br /><br />
             <div className='w-full flexx'>
-              <button className=" text-white w-3/4 py-2 rounded-lg font-bold h-14 text-2xl" style={{background:"linear-gradient(1turn, #ffb301, #ffde00)"}}>Add To Cart <FontAwesomeIcon icon={faCartPlus} /></button>
+              <button className=" text-white w-3/4 py-2 rounded-full font-bold h-14 text-2xl" style={{background:"linear-gradient(1turn, #ffb301, #ffde00)"}}>Add To Cart <FontAwesomeIcon icon={faCartPlus} /></button>
             </div>
             <div className='w-full flexx overflow-hidden mt-2'>
               <img src={card1} alt="" className='qwe' />
@@ -183,7 +183,7 @@ const FAQSection = () => {
           <div className="border rounded-xl shadow-lg w-80 mb-6 prp" style={{background:"linear-gradient(180deg, #fffabe, #fff)"}}>
             <h3 className="text-center text-xl font-bold rounded-t-md text-white h-10" style={{background:"#753363"}}>MOST POPULAR</h3>
             <div className="text-center text-lg mb-4">
-            <div className='text-4xl font-black uppercase' style={{color:"#753363"}}>6 bottles</div><div className="text-center text-gray-500 mb-2"><b>180 Day Supply</b></div>
+            <div className='text-4xl font-black uppercase mt-4' style={{color:"#753363"}}>6 bottles</div><div className="text-center text-black mb-2"><b>180 Day Supply</b></div>
               <img src={bottle3} alt="" style={{ height: "290px" }} />
             </div>
             <div className="text-center text-2xl font-bold mb-2">
@@ -198,7 +198,7 @@ const FAQSection = () => {
             </div>
             
             <div className='w-full flexx'>
-              <button className="bg-yellow-500 text-white  w-3/4 py-2 rounded-lg font-bold h-14 text-2xl">Add To Cart <FontAwesomeIcon icon={faCartPlus} /></button>
+              <button className="bg-yellow-500 text-white  w-3/4 py-2 rounded-full  font-bold h-14 text-2xl">Add To Cart <FontAwesomeIcon icon={faCartPlus} /></button>
             </div>
             <div className='w-full flexx overflow-hidden mt-2'>
               <img src={card5} alt="" className='qwe' />
@@ -212,7 +212,7 @@ const FAQSection = () => {
           <div className="border rounded-xl shadow-lg w-80 mb-6 gry ert">
             <h3 className="text-center text-xl font-bold rounded-t-md bg-slate-400 text-white h-10">BUNDLE</h3>
             <div className="text-center text-lg mb-4">
-            <div className='text-4xl font-black uppercase' style={{color:"#753363"}}>3 bottles</div><div className="text-center text-gray-500 mb-2"><b>90 Day Supply</b></div>
+            <div className='text-4xl font-black uppercase mt-4' style={{color:"#753363"}}>3 bottles</div><div className="text-center text-black mb-2"><b>90 Day Supply</b></div>
               <img src={bottle2} alt="" style={{ height: "290px" }} />
             </div>
             <div className="text-center text-2xl font-bold mb-2">
@@ -227,7 +227,7 @@ const FAQSection = () => {
             </div>
             <div className="text-center text-gray-500 mb-4">FREE US Shipping</div>
             <div className='w-full flexx'>
-              <button className="bg-yellow-500 text-white  w-3/4 py-2 rounded-lg font-bold h-14 text-2xl">Add To Cart <FontAwesomeIcon icon={faCartPlus} /></button>
+              <button className="bg-yellow-500 text-white  w-3/4 py-2 rounded-full font-bold h-14 text-2xl">Add To Cart <FontAwesomeIcon icon={faCartPlus} /></button>
             </div>
             <div className='w-full flexx overflow-hidden mt-2'>
               <img src={card1} alt="" className='qwe' />
