@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import logo from "../images/logo.svg";
+import logo from "../images/logo2.png";
 import Product from "./Product";
 import Benefits from "./Benefits";
 import Guarantee from "./Guarantee";
@@ -74,7 +74,9 @@ const Section = () => {
                     }`}
                     style={{ fontSize: "22px" }}
                   >
-                    Product
+                    Product Details
+
+
                   </p>
                   <svg
                     xmlns="http://www.w3.org/2000/svg"
