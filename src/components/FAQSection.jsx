@@ -177,7 +177,7 @@ const FAQSection = () => {
               <img src={card3} alt="" className='qwe' />
               <img src={card4} alt="" className='qwe' />
             </div>
-            <div className="text-center text-lg text-gray-500 mt-2" style={{color:"#753363"}}><span><s className='mr-2'>$128.99</s></span>$69.00</div>
+            <div className="text-center text-lg text-gray-500 mt-2" style={{color:"#753363"}}><span><s className='mr-2'>$128.99</s></span>$68.99</div>
           </div>
 
           <div className="border rounded-xl shadow-lg w-80 mb-6 prp" style={{background:"linear-gradient(180deg, #fffabe, #fff)"}}>
@@ -235,7 +235,7 @@ const FAQSection = () => {
               <img src={card3} alt="" className='qwe' />
               <img src={card4} alt="" className='qwe' />
             </div>
-            <div className="text-center text-lg text-gray-500 mt-2" style={{color:"#753363"}}><span><s className='mr-2'>$384.00</s></span>$117.00</div>
+            <div className="text-center text-lg text-gray-500 mt-2" style={{color:"#753363"}}><span><s className='mr-2'>$384.00</s></span>$147.00</div>
           </div>
         </div>
       </div>
