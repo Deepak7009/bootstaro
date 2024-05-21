@@ -4,29 +4,19 @@ function Benefits() {
   return (
     <div>
       <div className="tab-content-item mt-3 ml-4 mb-8 mr-4 active">
-        <h2 className="tab__title text-4xl font-bold text-primary text-customBgColorHSL">
-          What Benefits Can FitSpresso Give Me?
+        <h2 className="tab__title text-4xl font-bold text-primary ">
+          What Benefits Can Boostaro Give Me?
         </h2>
         <div className="tab__line h-0.5 w-20 bg-orange-400 my-3"></div>
         <div className="tab__body ">
           <div className="text-center">
             <h4 className="mt-8 text-xl font-bold text-primary text-customBgColorHSL">
-              Supports Healthy Blood Sugar
+              Supports Healthy Erections
             </h4>
             <div className="h-1 w-24 bg-orange-400 my-3 mx-auto"></div>
             <p className="text-base font-medium">
-              FitSpresso uses an proprietary blend of exclusive ingredients to
-              support healthy blood sugar levels
-            </p>
-          </div>
-          <div className="text-center">
-            <h4 className="mt-8 text-xl font-bold text-primary text-customBgColorHSL">
-              Supports Healthy Energy Usage
-            </h4>
-            <div className="h-1 w-24 bg-orange-400 my-3 mx-auto"></div>
-            <p className="text-base font-medium">
-              FitSpresso supports metabolism of food into energy, rather than
-              storing fat
+              Boostaro uses a special blend of ingredients to support healthy
+              erections
             </p>
           </div>
           <div className="text-center">
@@ -35,38 +25,48 @@ function Benefits() {
             </h4>
             <div className="h-1 w-24 bg-orange-400 my-3 mx-auto"></div>
             <p className="text-base font-medium">
-              FitSpresso supports healthy glucose metabolism to increase your
-              energy levels
+              Boostaro supports healthy energy levels so you can get back to
+              enjoy life to its fullest
             </p>
           </div>
           <div className="text-center">
             <h4 className="mt-8 text-xl font-bold text-primary text-customBgColorHSL">
-              Supports Fat Burning
+              Support Heart Health
             </h4>
             <div className="h-1 w-24 bg-orange-400 my-3 mx-auto"></div>
             <p className="text-base font-medium">
-              FitSpresso is a blend of powerful ingredients that turn fat into
-              energy
+              Boostaro's unique formula helps supports circulation and blood
+              flow
             </p>
           </div>
           <div className="text-center">
             <h4 className="mt-8 text-xl font-bold text-primary text-customBgColorHSL">
-              Supports Healthy Digestion
+              Supports Firm Erections
             </h4>
             <div className="h-1 w-24 bg-orange-400 my-3 mx-auto"></div>
             <p className="text-base font-medium">
-              FitSpresso unique formula helps support healthy digestion and
-              helps reduce bloating
+              Boostaro helps promote a healthy libido and supports erection
+              quality
             </p>
           </div>
           <div className="text-center">
             <h4 className="mt-8 text-xl font-bold text-primary text-customBgColorHSL">
-              Support Healthy Weight
+              Increases Sexual Performance
             </h4>
             <div className="h-1 w-24 bg-orange-400 my-3 mx-auto"></div>
             <p className="text-base font-medium">
-              FitSpresso’s unique formula supports digestion and maintenance of
-              healthy body weight
+              Boostaro helps improve your sexual performance so you can pleasure
+              her
+            </p>
+          </div>
+          <div className="text-center">
+            <h4 className="mt-8 text-xl font-bold text-primary text-customBgColorHSL">
+              Support Nitric Oxide Levels
+            </h4>
+            <div className="h-1 w-24 bg-orange-400 my-3 mx-auto"></div>
+            <p className="text-base font-medium">
+              Boostaro helps improve your sexual performance so you can pleasure
+              her
             </p>
           </div>
         </div>
