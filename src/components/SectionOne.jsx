@@ -168,9 +168,6 @@ function ProductInfo() {
                                        <span className='block'>bottle</span></span>
                                  </div>
                                  <div className="offer-card__savings text-red-600 flex-1">You Save - $80</div>
-                                 <div className="offer-card__savings offer-card__fullprice font-bold text-sm empty:hidden flex-1">
-                                    + $9.99 SHIPPING
-                                 </div>
                                  <p className="offer-card__disclaimer text-xs uppercase leading-none my-2 text-center mt-auto">
                                     THIS IS ONE TIME PAYMENT <span className='block'>
                                        THERE ARE NO MONTHLY CHARGES</span></p>

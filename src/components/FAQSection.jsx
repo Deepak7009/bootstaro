@@ -154,8 +154,6 @@ const FAQSection = () => {
       </div>
 
 
-
-
       <div className='bg-white pt-4 flexx w-11/12'>
         <div className="productss productss2 bg-white">
           <div className="border rounded-xl shadow-lg w-full mb-6 ml-3 gry ert">
@@ -177,11 +175,11 @@ const FAQSection = () => {
               <img src={card3} alt="" className='qwe' />
               <img src={card4} alt="" className='qwe' />
             </div>
-            <div className="text-center text-lg text-gray-500 mt-2 text-xs" style={{color:"black"}}><span><s className='mr-2'>$149.00</s></span>$78.99</div>
+            <div className="text-center text-gray-500 mt-2 text-xs" style={{color:"black"}}><span><s className='mr-2'>$149.00</s></span>$78.99</div>
           </div>
 
           <div className="border rounded-xl shadow-lg w-full mb-6 prp" style={{background:"linear-gradient(180deg, #fffabe, #fff)"}}>
-            <h3 className="text-center text-xl font-bold rounded-t-md text-white h-10" style={{background:"black"}}>MOST POPULAR</h3>
+            <h3 className="text-center text-xl font-bold rounded-t-md text-white h-10 bg-primary" style={{background:"black"}}>MOST POPULAR</h3>
             <div className="text-center text-lg mb-4">
             <div className='text-4xl font-black uppercase mt-4' style={{color:"black"}}>6 bottles</div><div className="text-center text-black mb-2"><b>180 Day Supply</b></div>
               <img src={bottle3} alt="" style={{ height: "290px" }} />
