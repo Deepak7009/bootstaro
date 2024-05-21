@@ -6,7 +6,7 @@ function ProductInfo() {
          <header class="py-2 shadow-md">
             <div class="container"><a class="text-3xl uppercase font-bold text-primary tracking-tight i-b align-middle" href="/">Boostaro</a></div>
          </header>
-         <section className="product-info md:pt-5 md:px-5">
+         <section className="product-info md:pt-5">
             <div className="container p-0 md:rounded-t-2xl overflow-hidden bg-white">
                <div className="md:grid grid-cols-3">
                   <div className="main-title-wrapper-bg">
