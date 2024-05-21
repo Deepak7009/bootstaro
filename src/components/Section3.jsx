@@ -5,7 +5,7 @@ function Section3() {
     <div>
       <section className="section__reviews mt-12 bg-white">
         <div className="container px-4">
-          <h2 className="reviews__title font-black text-center text-primary">
+          <h2 className="reviews__title font-black text-center">
             Real Boostaro
             <small>
               <sup>®</sup>
@@ -13,7 +13,7 @@ function Section3() {
             Users
           </h2>
           <div className="flex justify-center">
-            <p className="mt-4 i-b rounded-2xl bg-primary text-white px-16 py-4 text-5xl text-center">
+            <p className="mt-4 i-b rounded-2xl bg-black font-bold text-white px-16 py-4 text-5xl text-center">
               Life Changing Results
             </p>
           </div>
