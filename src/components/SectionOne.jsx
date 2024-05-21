@@ -18,7 +18,8 @@ function ProductInfo() {
                      </div>
                      <div className="product-info__bottles px-5">
                         <img className="-mt-4 md:mt-0 max-w-md mx-auto w-full" width="1000" height="1000" alt="Product 6 Bottles"
-                           src="https://tryfitspresso.org/l/lib/img/media/FS_6_bottles@1000.webp" loading="eager"
+                           src="https://tryboostaronow.net/l/lib/img/media/6-Bottle-Boostaro@1440.webp
+                           " loading="eager"
                            sizes="94vw, (min-width:507px) 448px, (min-width: 768px) 25.7vw, (min-width:1135px) 320px" />
                      </div>
                      <div className="solution px-4 my-4">
